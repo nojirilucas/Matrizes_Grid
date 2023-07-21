@@ -13,7 +13,8 @@ enquanto percorre o grid aumentam a sua energia
 ## Segundo Exemplo
 | Imagem 1 | Imagem 2 |
 |----------|----------|
-| <img src="https://github.com/nojirilucas/Matrizes_Grid/assets/103136574/d68c5bdd-b946-4b8f-ae08-db0f11da18b5" width="200"/> | <img src="https://github.com/nojirilucas/Matrizes_Grid/assets/103136574/75050e71-27b0-451b-8981-54937b748d35" width="200"/> |
+| <img src="https://github.com/nojirilucas/Matrizes_Grid/assets/103136574/75050e71-27b0-451b-8981-54937b748d35" width="200"/> | <img src="https://github.com/nojirilucas/Matrizes_Grid/assets/103136574/d68c5bdd-b946-4b8f-ae08-db0f11da18b5" width="200"/> |
+
 
 ![grid](https://github.com/nojirilucas/Matrizes_Grid/assets/103136574/39442deb-29b9-46b7-873b-f5ff09aee8bb){width=200}
 ![caminhos](https://github.com/nojirilucas/Matrizes_Grid/assets/103136574/dd95cefa-b910-48f5-9942-18779f089a19){width=200}
