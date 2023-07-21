@@ -18,5 +18,5 @@ enquanto percorre o grid aumentam a sua energia
 
 <div>
     <img src="https://github.com/nojirilucas/Matrizes_Grid/assets/103136574/39442deb-29b9-46b7-873b-f5ff09aee8bb" width="550" style="display: inline-block;"/>
-    <img src="https://github.com/nojirilucas/Matrizes_Grid/assets/103136574/dd95cefa-b910-48f5-9942-18779f089a19" width="500" style="display: inline-block;"/>
+    <img src="https://github.com/nojirilucas/Matrizes_Grid/assets/103136574/dd95cefa-b910-48f5-9942-18779f089a19" width="450" style="display: inline-block;"/>
 </div>
