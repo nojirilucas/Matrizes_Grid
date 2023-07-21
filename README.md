@@ -8,7 +8,7 @@ enquanto percorre o grid aumentam a sua energia
 ## Primeiro Exemplo
 | Matriz | Menor Caminho |
 |----------|----------|
-| <img src="https://github.com/nojirilucas/Matrizes_Grid/assets/103136574/8d613e01-39dc-4e2c-a9e9-5ba5a7765511" width="450"/> | <img src="https://github.com/nojirilucas/Matrizes_Grid/assets/103136574/08a874ef-3fdc-4bb7-87c0-eb78d39c8d5e" width="500"/> |
+| <img src="https://github.com/nojirilucas/Matrizes_Grid/assets/103136574/8d613e01-39dc-4e2c-a9e9-5ba5a7765511" width="450"/> | <img src="https://github.com/nojirilucas/Matrizes_Grid/assets/103136574/08a874ef-3fdc-4bb7-87c0-eb78d39c8d5e" width="510"/> |
 
 ## Segundo Exemplo
 | Matriz | Menor Caminho |
