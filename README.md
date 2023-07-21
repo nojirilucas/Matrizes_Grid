@@ -15,9 +15,7 @@ enquanto percorre o grid aumentam a sua energia
 |----------|----------|
 | <img src="https://github.com/nojirilucas/Matrizes_Grid/assets/103136574/08a874ef-3fdc-4bb7-87c0-eb78d39c8d5e" width="200"/> | <img src="https://github.com/nojirilucas/Matrizes_Grid/assets/103136574/8d613e01-39dc-4e2c-a9e9-5ba5a7765511" width="200"/> |
 
-## Terceiro Par
-| Imagem 1 | Imagem 2 |
-|----------|----------|
-| <img src="https://github.com/nojirilucas/Matrizes_Grid/assets/103136574/39442deb-29b9-46b7-873b-f5ff09aee8bb" width="200"/> | <img src="https://github.com/nojirilucas/Matrizes_Grid/assets/103136574/dd95cefa-b910-48f5-9942-18779f089a19" width="200"/> |
+![grid](https://github.com/nojirilucas/Matrizes_Grid/assets/103136574/39442deb-29b9-46b7-873b-f5ff09aee8bb){width=200}
+![caminhos](https://github.com/nojirilucas/Matrizes_Grid/assets/103136574/dd95cefa-b910-48f5-9942-18779f089a19){width=200}
 
 
