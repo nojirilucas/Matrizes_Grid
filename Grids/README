@@ -1,0 +1,5 @@
+PARA COMPILAR DIGITE MAKE
+PARA FAZER A EXECUÇÃO DIGITE: ./tp2 1 input.txt -> Para a estratégia 1(Algoritmo guloso)
+                              ./tp2 2 input.txt -> Para a estratégia 2(Programação dinâmica)
+                              
+                              
